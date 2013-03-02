@@ -1,0 +1,3 @@
+[submodule "ext/waf"]
+	path = ext/waf
+	url = https://code.google.com/p/waf/
